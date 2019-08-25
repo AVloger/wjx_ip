@@ -5,11 +5,11 @@
 #### 安装依赖
 
 ```
-pip3 install pymysql
-pip3 install requests
-pip3 install bs4
-pip3 install lxml
-pip3 install sqlalchemy
+pip install pymysql
+pip install requests
+pip install bs4
+pip install lxml
+pip install sqlalchemy
 ```
 
 #### 数据库配置
